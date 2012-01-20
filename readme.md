@@ -1,3 +1,4 @@
+![tko.js](https://github.com/CrackerSnack/tko.js/raw/master/tko.png)
 # Punch your project in the UI with tko.js
 
 In its basic form tko.js is a jquery plugin that lets you glue html elements to a javascript model. The API is based on knockout.js but with a focus on binding elements to data while you continue using awesome frameworks you already love like backbone.js. To keep the separation of concerns clear tko.js uses a json like object syntax that maps elements to functions or getters/setters while keeping the actual code out of your html.
